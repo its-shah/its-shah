@@ -1,4 +1,4 @@
-
+![MasterHead](https://github.com/its-shah/its-shah/blob/main/Md%20Shahbaz%20Alam.jpg)
 
 <h1 align="center">Hi 👋, I'm Shahbaz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
